@@ -1,16 +1,19 @@
-### Hi there 👋
+🔭 I’m currently working on
 
-<!--
-**Itsyourdriver/itsyourdriver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Websties, content creating, and dicsord bots!
 
-Here are some ideas to get you started:
+🌱 I’m currently learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Node.JS
+
+📫 How to reach me:
+
+My Socials:
+https://www.reddit.com/user/Itsyourdriver - Reddit
+https://dsc.gg/driversloft - Discord Server
+https://www.youtube.com/channel/UC0YB4CrnNTDZBbGEO2z8Uww - Youtube
+https://twitch.tv/Itsyourdriver_ - Twitch
+https://soundcloud.com/itsyourdriver - Soundcloud
+
+😄 Pronouns: He/Him
+
