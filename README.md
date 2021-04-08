@@ -1,6 +1,6 @@
 🔭 I’m currently working on
 
-Websties, content creating, and dicsord bots!
+Websties, content creating, and discord bots!
 
 🌱 I’m currently learning
 
