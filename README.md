@@ -1,14 +1,12 @@
-🔭 I’m currently working on
+# Itsyourdriver
+I do game development & web development!
 
-Websties, content creating, and discord bots!
-
-🌱 I’m currently learning
-
-Node.JS
-
-📫 How to reach me:
-
+I have a couple or projects, however here is my website.
 https://itsyourdriver.xyz
 
-😄 Pronouns: He/Him
 
+# My Coding Languages
+JS, HTML
+
+# I'm learning
+Python, Bash/Linux/Ubuntu
