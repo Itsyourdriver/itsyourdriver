@@ -5,8 +5,4 @@ I have a couple or projects, however here is my website.
 https://itsyourdriver.xyz
 
 
-# My Coding Languages
-JS, HTML
-
-# I'm learning
-Python, Bash/Linux/Ubuntu
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Itsyourdriver)](https://github.com/anuraghazra/github-readme-stats)
