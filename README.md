@@ -1,5 +1,9 @@
 I had headers here but they are gone because the filehosting service that I used switched the way they stored files, so yeah.
 
+[![Followers](https://img.shields.io/github/followers/itsyourdriver?style=social)
+[![Twitch](https://img.shields.io/twitch/status/itsyourdriver_?style=social)
+
+
 # Itsyourdriver
 I do game development & web development!
 
