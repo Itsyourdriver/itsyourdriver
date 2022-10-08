@@ -21,3 +21,5 @@ https://shiba.ga/ - A Multi-use discord bot containing multiple nice commands in
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Itsyourdriver)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Itsyourdriver's GitHub stats](https://github-readme-stats.vercel.app/api?username=Itsyourdriver)](https://github.com/anuraghazra/github-readme-stats)
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R6R3D2DU1)
