@@ -1,8 +1,8 @@
 ![ItsyourdriverBanner](https://cdn.driver.fyi/r/mainbanner.png)
 
 
-[![Followers](https://img.shields.io/github/followers/itsyourdriver?style=social)
-[![Twitch](https://img.shields.io/twitch/status/itsyourdriver_?style=social)
+![Followers](https://img.shields.io/github/followers/itsyourdriver?style=social)
+![Twitch](https://img.shields.io/twitch/status/itsyourdriver_?style=social)
 ![Profile views](https://gpvc.arturio.dev/Itsyourdriver)
 
 
