@@ -3,6 +3,7 @@
 
 ![Followers](https://img.shields.io/github/followers/itsyourdriver?style=social)
 ![Youtube](https://img.shields.io/youtube/channel/subscribers/UC0YB4CrnNTDZBbGEO2z8Uww?style=social)
+![Twitter](https://img.shields.io/twitter/follow/Itsyourdriver_?style=social)
 ![Profile views](https://gpvc.arturio.dev/Itsyourdriver)
 
 
