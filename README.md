@@ -15,7 +15,7 @@ I'm a content creator and web developer from the united states. I am open to try
 ![ProjectsBanner](https://cdn.driver.fyi/r/projectsbanner.png)
 ## ✨ Some of my current projects are: 
 
-https://driver.fyi/ - A project site containing minecraft datapacks and links to some of my random stuff! Site is being reworked so the current web design is not representitive of my work.
+https://driver.fyi/ - A project site containing minecraft datapacks and links to some of my random stuff! I've finished the rework but it's still a work in progress.
 
 https://shiba.ga/ - A Multi-use discord bot containing multiple nice commands including polls, suggestions, 8ball, and a couple others and is open source! I plan on adding more to it in the future.
 
