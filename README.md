@@ -17,7 +17,7 @@ I'm a content creator and web developer from the united states. I am open to try
 
 https://driver.fyi/ - A project site containing minecraft datapacks and links to some of my random stuff! I've finished the rework but it's still a work in progress.
 
-https://shiba.ga/ - A Multi-use discord bot containing multiple nice commands including polls, suggestions, 8ball, and a couple others and is open source! I plan on adding more to it in the future.
+https://shiba.driver.fyi/ - A Multi-use discord bot containing multiple nice commands including polls, suggestions, 8ball, and a couple others and is open source! I plan on adding more to it in the future.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Itsyourdriver)](https://github.com/anuraghazra/github-readme-stats)
 
