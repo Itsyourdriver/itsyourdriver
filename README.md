@@ -18,6 +18,12 @@ https://driver.fyi/ - A project site containing minecraft datapacks and links to
 
 https://shiba.driver.fyi/ - A Multi-use discord bot containing multiple nice commands including polls, suggestions, 8ball, and a couple others and is open source! I plan on adding more to it in the future.
 
+Other Projects:
+
+Driver's Serpent's Hand - A customizeable Serpent's Hand plugin for SCP: Secret Laboratory. Currently a work-in-progress and will be released within the next few weeks. (THIS PLUGIN WILL BE FOR NORTHWOODAPI/NWAPI, NOT EXILED)
+
+Driver's Utils - Adds multiple bindable item commands for your players to use, also adds a disableable guard captain system. Picks one guard at the start of a round to be a captain. Some other utilities as well. Also a work in-progress, is mostly done, same with serpent's hand.
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Itsyourdriver)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Itsyourdriver's GitHub stats](https://github-readme-stats.vercel.app/api?username=Itsyourdriver)](https://github.com/anuraghazra/github-readme-stats)
