@@ -14,11 +14,11 @@ I'm a content creator and web developer from the united states. I am open to try
 ![ProjectsBanner](https://cdn.driver.fyi/r/projectsbanner.png)
 ## ✨ Some of my current projects are: 
 
-https://driver.fyi/ - A project site containing minecraft datapacks and links to some of my random stuff! I've finished the rework but it's still a work in progress.
+https://driver.fyi/ - A project site containing minecraft datapacks and links to some of my random stuff!
 
 https://shiba.driver.fyi/ - A Multi-use discord bot containing multiple nice commands including polls, suggestions, 8ball, and a couple others and is open source! I plan on adding more to it in the future.
 
-Other Projects:
+Stuff I'm working on right now:
 
 Driver's Serpent's Hand - A customizeable Serpent's Hand plugin for SCP: Secret Laboratory. Currently a work-in-progress and will be released within the next few weeks. (THIS PLUGIN WILL BE FOR NORTHWOODAPI/NWAPI, NOT EXILED)
 
