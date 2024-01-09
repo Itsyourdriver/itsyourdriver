@@ -16,13 +16,13 @@ I'm a content creator and web developer from the united states. I am open to try
 
 https://driver.fyi/ - A project site containing Minecraft data packs and links to some of my random stuff! Currently slowly turning it into a car/automotive news/blog site, all of that is not public for now, the goal is to have no ads while creating a great reading experience.
 
-https://shiba.driver.fyi/ - A Multi-use discord bot containing multiple nice commands including polls, suggestions, 8ball, and a couple others and is open source! I plan on adding more to it in the future.
+https://shiba.driver.fyi/ - A Multi-use discord bot containing multiple nice commands including polls, suggestions, 8ball, and a couple others and is open source! I plan on adding more to it in the future. (github repo is NOT updated.)
 
 Stuff I'm working on right now:
 
-[Driver's Utils](https://github.com/Itsyourdriver/DriversUtils-NWAPI) - Adds multiple bindable item commands for your players to use, also adds a disableable guard captain system.Picks one guard at the start of a round to be a captain. Adds a serpents hand system, Some other utilities as well. Also a work in-progress, is mostly done.
+[Driver's Utils](https://github.com/Itsyourdriver/DriversUtils-NWAPI) - Adds a disableable guard captain system.Picks one guard at the start of a round to be a captain. Adds a serpents hand system, flamingo spawn waves, MTF NU-7, and Some other utilities as well. Also is work in-progress, is mostly done.
 
-[UnnamedMod](https://github.com/Itsyourdriver/unnamedmod) - a minecraft mod, wip as I learn minecraft modding. 
+[UnnamedMod](https://github.com/Itsyourdriver/unnamedmod) - a minecraft mod, currently finished as it was purpose built during me learning java for a server of mine.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Itsyourdriver)](https://github.com/anuraghazra/github-readme-stats)
 
