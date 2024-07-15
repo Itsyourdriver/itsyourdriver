@@ -7,7 +7,7 @@
 
 
 #  👋 Hey there! I'm Itsyourdriver!
-I'm a content creator and web developer from the united states. I am open to trying new things and enjoy contributing to projects that I can work on.
+I'm a content creator and developer from the united states. I am open to trying new things and enjoy contributing to projects that I can work on.
 
 
 
