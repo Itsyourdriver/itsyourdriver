@@ -13,11 +13,13 @@ I'm a content creator and developer from the united states. I am open to trying 
 
 ![ProjectsBanner](https://cdn.driver.fyi/r/projectsbanner.png)
 
-Stuff I'm working on right now:
+Some of my projects:
 
 [Driver's Utils](https://github.com/Itsyourdriver/DriversUtils-NWAPI) - A plugin of mine for SCP:Secret Labratory that has a whole bunch of features. Listed in project README.
 
-[UnnamedMod](https://github.com/Itsyourdriver/unnamedmod) - a minecraft mod, currently finished as it was purpose built during me learning java for a server of mine.
+[UnnamedMod](https://github.com/Itsyourdriver/unnamedmod) - Private, but it's a minecraft mod that expands the end and a few other areas of the game with some other small items and additions. 
+
+[MorePotions/Missing-Potions](https://github.com/Itsyourdriver/morepotions) - Adds more potions to minecraft.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Itsyourdriver)](https://github.com/anuraghazra/github-readme-stats)
 
