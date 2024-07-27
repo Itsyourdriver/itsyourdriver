@@ -16,7 +16,11 @@ I code stuff sometimes
 
 [MorePotions/Missing-Potions](https://github.com/Itsyourdriver/morepotions) - Adds more potions to minecraft.
 
+[Shiba](https://github.com/Itsyourdriver/Shiba) - A discord bot with slash command support and some fairly basic functionality.
 
+[Url Shortener](https://github.com/Itsyourdriver/rotf.tk-tyni.cf) - A basic url shortener that I ran for a good few months. Not great but it worked
+
+A lot of my projects are private or located somewhere else!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Itsyourdriver)](https://github.com/anuraghazra/github-readme-stats)
 
