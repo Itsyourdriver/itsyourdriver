@@ -3,27 +3,19 @@
 [![Youtube](https://img.shields.io/youtube/channel/subscribers/UC0YB4CrnNTDZBbGEO2z8Uww?style=social)](https://www.youtube.com/channel/UCuriNnMLfmUviVPN2mtNk5A)
 [![Twitter](https://img.shields.io/twitter/follow/Itsyourdriver_?style=social)](https://twitter.com/Itsyourdriver_)
 
-I code stuff sometimes
+I’m Itsyourdriver, an indie game developer from the United States. I also happen to make videos on a site you might have heard of already. (yes, YouTube)
 
 
 
 
 # Projects:
 
-[Driver's Utils](https://github.com/Itsyourdriver/DriversUtils-NWAPI) - A plugin of mine for SCP:Secret Labratory that has a whole bunch of features. Listed in project README.
-
-[UnnamedMod](https://github.com/Itsyourdriver/unnamedmod) - Private, but it's a minecraft mod that expands the end and a few other areas of the game with some other small items and additions. 
+[Shiba](https://codeberg.org/Itsyourdriver/Shiba) - A basic discord.js bot centered around the dog breed of the Shiba Inu. It was shut down/retired on 3/10/25.
 
 [MorePotions/Missing-Potions](https://github.com/Itsyourdriver/morepotions) - Adds more potions to minecraft.
 
-[Shiba](https://github.com/Itsyourdriver/Shiba) - A discord bot with slash command support and some fairly basic functionality.
+[Url Shortener](https://github.com/Itsyourdriver/rotf.tk-tyni.cf) - A basic url shortener that I ran for around half a year.
 
-[Url Shortener](https://github.com/Itsyourdriver/rotf.tk-tyni.cf) - A basic url shortener that I ran for a good few months. Not great but it worked
 
-A lot of my projects are private or located somewhere else!
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Itsyourdriver)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Itsyourdriver's GitHub stats](https://github-readme-stats.vercel.app/api?username=Itsyourdriver)](https://github.com/anuraghazra/github-readme-stats)
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R6R3D2DU1)
