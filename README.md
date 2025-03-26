@@ -18,4 +18,3 @@ I’m Itsyourdriver, an indie game developer from the United States. I also happ
 
 
 
-[![Itsyourdriver's GitHub stats](https://github-readme-stats.vercel.app/api?username=Itsyourdriver)](https://github.com/anuraghazra/github-readme-stats)
